@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://6uqc6fiis3em"]
+
+[node name="Node3D" type="Node3D"]
+visible = false
+
+[node name="Node3D" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.08993, -1.06132, -2.02027)
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2(509, 186)
